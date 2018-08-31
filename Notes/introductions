@@ -1,0 +1,62 @@
+C is a Structured general purpose programming language because to solve a large problem, C programming language divides the problem into smaller modules called functions or procedures each of which handles a particular responsibility..
+
+It is developed by Dennis Ritchie in the year 1972.
+
+C language has 32 keywords
+<table summary="List of all keywords used in C programming language.">
+	<thead>
+		<tr>
+			<th colspan="4">Keywords in C Programming</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="#auto">auto</a></td>
+			<td><a href="#break_continue">break</a></td>
+			<td><a href="#switch_case_default">case</a></td>
+			<td><a href="#char">char</a></td>
+		</tr>
+		<tr>
+			<td><a href="#const">const</a></td>
+			<td><a href="#break_continue">continue</a></td>
+			<td><a href="#switch_case_default">default</a></td>
+			<td><a href="#do_while">do</a></td>
+		</tr>
+		<tr>
+			<td><a href="#double_float">double</a></td>
+			<td><a href="#if_else">else</a></td>
+			<td><a href="#enum">enum</a></td>
+			<td><a href="#extern">extern</a></td>
+		</tr>
+		<tr>
+			<td><a href="#double_float">float</a></td>
+			<td><a href="#for">for</a></td>
+			<td><a href="#goto">goto</a></td>
+			<td><a href="#if_else">if</a></td>
+		</tr>
+		<tr>
+			<td><a href="#int">int</a></td>
+			<td><a href="#short_long_signed_unsigned">long</a></td>
+			<td><a href="#register">register</a></td>
+			<td><a href="#return">return</a></td>
+		</tr>
+		<tr>
+			<td><a href="#short_long_signed_unsigned">short</a></td>
+			<td><a href="#short_long_signed_unsigned">signed</a></td>
+			<td><a href="#sizeof">sizeof</a></td>
+			<td><a href="#static">static</a></td>
+		</tr>
+		<tr>
+			<td><a href="#struct">struct</a></td>
+			<td><a href="#switch_case_default">switch</a></td>
+			<td><a href="#typedef">typedef</a></td>
+			<td><a href="#union">union</a></td>
+		</tr>
+		<tr>
+			<td><a href="#short_long_signed_unsigned">unsigned</a></td>
+			<td><a href="#void">void</a></td>
+			<td><a href="#volatile">volatile</a></td>
+			<td><a href="#do_while">while</a></td>
+		</tr>
+	</tbody>
+</table>

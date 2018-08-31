@@ -1,0 +1,13 @@
+
+%d  integer
+%c  character
+%f  float
+%d  double
+%s  String    ex  printf("String=%s",s)
+%lu sizeof    ex- printf("size of%lu",sizeof(a));
+
+%u address of  ex-("Address of a is:%u \n",&a);
+
+pointer:-
+%u-pc-----Address of pointer    ex-("Address of pointer pc:%u\n",pc);
+%d-*pc----Content of pointer    ex-("Content of pointer pc:%d\n\n",*pc);
