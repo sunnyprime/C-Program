@@ -1,6 +1,21 @@
 # C-Program
 C programs
 
+## DATA TYPE
+
+| Type | Specifier | Example |
+| :----:| :---- | :---- |
+| integer |  %d | printf("Integer is:%d\n",a); |
+| character | %c | printf("Character is:%c\n",c) |
+| float | %f  |  printf("Float is:%f\n",b); |
+| double | %d | printf("Double is:%d \n,d); |
+| String | %s |   printf("String=%s",s) |
+| sizeof | %lu |  printf("size of%lu",sizeof(a)); |
+
+
+
+
+
 ## Function calling
 
 | Types | declarations(prototype)  |   function definition    |   function call  |
